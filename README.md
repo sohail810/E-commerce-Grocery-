@@ -1,8 +1,8 @@
-# Vmart-Frozen Fullstack Project
+# A.Smart-Frozen Fullstack Project
 
 ## Overview
 
-This repository contains a fullstack grocery e-commerce platform called **Vmart-Frozen**. It is divided into two main parts:
+This repository contains a fullstack grocery e-commerce platform called **A.Smart-Frozen**. It is divided into two main parts:
 
 - **Backend/**: Node.js Express REST API for authentication, product management, orders, and seller/admin features.
 - **Frozen/**: React frontend built with Vite, providing a modern UI for users and sellers.
